@@ -1,7 +1,7 @@
 # CRUD Flutter dengan Hive
 
 Proyek ini adalah aplikasi Flutter sederhana yang mengimplementasikan operasi CRUD (Create, Read, Update, Delete) menggunakan Hive sebagai database lokal.
-![Menambakan Data](images/1.png)
+![Menambakan Data](assets/1.png)
 
 ## Fitur
 - Tambah data
