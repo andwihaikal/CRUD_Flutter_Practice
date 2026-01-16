@@ -1,16 +1,12 @@
-# crudsederhana
+# CRUD Flutter dengan Hive
 
-A new Flutter project.
+Proyek ini adalah aplikasi Flutter sederhana yang mengimplementasikan operasi CRUD (Create, Read, Update, Delete) menggunakan Hive sebagai database lokal.
 
-## Getting Started
+## Fitur
+- Tambah data
+- Lihat data
+- Update data
+- Hapus data
+- Penyimpanan lokal dengan Hive
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
